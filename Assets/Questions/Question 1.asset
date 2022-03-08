@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: This President got a Degree from SU's College of Law
+  answers:
+  - Donald Trump
+  - Joe Biden
+  - George W Bush
+  - Grover Cleveland
+  correctAnswerIndex: 1
