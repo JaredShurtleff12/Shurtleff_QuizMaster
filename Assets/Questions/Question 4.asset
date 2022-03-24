@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What were Syracuse University's colors before it was Orange?
+  answers:
+  - Rose Pink and Pea Green
+  - Maroon and Black
+  - It's always been Orange
+  - Blue and Gold
+  correctAnswerIndex: 0
